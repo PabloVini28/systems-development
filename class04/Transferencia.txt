@@ -1,0 +1,3 @@
+Especifique textualmente o Caso de Uso Realizar Transferência: 
+
+Basicamente, o usuário Cliente ou Gerente do Banco, explícito no documento ASTAH, precisa, necessariamente estar logado a sua conta, visto que, uma transferência precisa do número da conta e agência do cliente que irá receber o valor e do número da agência e conta do cliente que está enviando o valor, por isso o uso do <<include>>. No caso, a transferência só é validada caso os dados das contas das duas entidades estejam inclusos.
