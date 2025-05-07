@@ -1,0 +1,3 @@
+Especifique textualmente o Caso de Uso realizar Deposito:
+
+Basicamente, o usuário Cliente ou Gerente do Banco, explícito no documento ASTAH, não precisa, necessariamente estar logado a sua conta, visto que, um depósito só precisa do número da conta e agência do cliente que irá receber o valor, por isso o uso do <<extend>>. No caso, a gaveta recebe o envelope e o dinheiro será depositado.
